@@ -18,6 +18,7 @@ apm install git-log
 apm install hard-wrap
 apm install hey-pane
 apm install highlight-selected
+apm install hydrogen
 apm install ide-c
 apm install ide-cpp
 apm install ide-html
@@ -40,10 +41,13 @@ apm install linter-ui-default
 apm install linter-write-good
 apm install markdown-preview-plus
 apm install minimap
+apm install minimap-codeglance
 apm install minimap-cursorline
 apm install minimap-find-and-replace
+apm install minimap-git-diff
 apm install minimap-highlight-selected
 apm install minimap-linter
+apm install minimap-pigments
 apm install minimap-selection
 apm install pdf-view
 apm install pigments
