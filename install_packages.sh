@@ -51,7 +51,7 @@ apm install minimap-pigments
 apm install minimap-selection
 apm install pdf-view
 apm install pigments
-apm install paltformio-ide-terminal
+apm install platformio-ide-terminal
 apm install python-indent
 apm install python-tools
 apm install relative-numbers
@@ -62,3 +62,4 @@ apm install tree-view-git-status
 apm install vim-mode-plus
 apm install vim-mode-plus-keymaps-for-surround
 apm install vim-mode-plus-move-selected-text
+apm install zentabs
