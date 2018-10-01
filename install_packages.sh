@@ -15,6 +15,7 @@ apm install docblockr
 apm install ex-mode
 apm install file-icons
 apm install git-log
+apm install glsl-preview
 apm install hard-wrap
 apm install hey-pane
 apm install highlight-selected
@@ -28,6 +29,7 @@ apm install ide-python
 apm install intentions
 apm install java-generator
 apm install language-arm
+apm install language-glsl
 apm install language-haskell
 apm install language-latex
 apm install language-matlab
